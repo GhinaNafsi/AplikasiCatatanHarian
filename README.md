@@ -83,7 +83,8 @@ A. Kode Program
         JOptionPane.showMessageDialog(this, "Pilih baris yang ingin diubah!");
     }
     }
-~~
+
+
    4. Tombol Hapus
    private void btnDeleteActionPerformed(java.awt.event.ActionEvent evt) {    
    
