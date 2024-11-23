@@ -172,6 +172,19 @@ sorter.setRowFilter(RowFilter.regexFilter("(?i)" + keyword));
   ##Tampilan Form saat dijalankan
 <img width="741" alt="Catatan HArian" src="https://github.com/user-attachments/assets/646c9d7e-e2f9-44c1-bca7-00a2ddee81b5">
 
+## Indikator Penilaian:
 
+| No  | Komponen                        |  Persentase  |
+| :-: | --------------                  |   :-----:    |
+|  1  | Fungsional Aplikasi             |    20        |
+|  2  | Desain dan UX                   |    30        |
+|  3  | Penerapan konsep OOP            |    15        |
+|  4  | Kreatifitas dan inovasi fitur   |    15        |
+|  5  | Dokumentasi Kode                |    20        |
+|     | TOTAL                           |    80        |
 
-  
+Tantangan                                   20
+
+NAMA : GHINA NAFSI
+NPM : 2210010324
+KELAS 5A TI REG PAGIBJM
